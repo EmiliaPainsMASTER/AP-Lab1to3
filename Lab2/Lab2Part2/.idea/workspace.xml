@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9c0343b-8972-4379-8b52-d837045dacda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lab2Part1/src/Lab2Part1/TryCatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2Part2/CheckedVersusUncheckedExceptions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab2Part2/CheckedVersusUncheckedExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2Part2/CheckedVersusUncheckedExceptions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -55,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739456128467</updated>
       <workItem from="1739456129487" duration="31000" />
-      <workItem from="1739456838132" duration="1481000" />
+      <workItem from="1739456838132" duration="1995000" />
     </task>
     <servers />
   </component>

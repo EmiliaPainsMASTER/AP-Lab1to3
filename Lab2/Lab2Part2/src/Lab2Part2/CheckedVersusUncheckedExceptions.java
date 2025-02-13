@@ -16,7 +16,7 @@ public class CheckedVersusUncheckedExceptions {
             File file = new File(fileName);
             file.exists();
         }catch(IOException e){
-            System.out.println("Cannot find file: " + e);
+            System.out.println("Cannot find file: " + e.getMessage());
         }
     }
     public static void main(String[] args) throws IOException {
