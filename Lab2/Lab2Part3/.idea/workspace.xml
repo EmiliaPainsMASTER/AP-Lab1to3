@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7621f0f7-e39a-49dc-a1b9-d55ee95424a9" name="Changes" comment="" />
+    <list default="true" id="7621f0f7-e39a-49dc-a1b9-d55ee95424a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/artifacts/Lab2Part1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab2Part1/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2Part3/MultiCatchUsingOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab2Part3/MultipleCatchBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1Part3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1Part3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab1/Lab1Part3/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab1/Lab1Part3/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Lab2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Part1/src/Lab2Part1/TryCatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Part1/src/Lab2Part1/TryCatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Part2/src/Lab2Part2/CheckedVersusUncheckedExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab2Part2/src/Lab2Part2/CheckedVersusUncheckedExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Part4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Part4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Part4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Part4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Part4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab2Part4/Lab2Part4.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2szQtmpx1tldIgqudIhSuXROxaJ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,11 +41,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739456140829</updated>
       <workItem from="1739456141887" duration="18000" />
+      <workItem from="1740322377982" duration="49000" />
     </task>
     <servers />
   </component>

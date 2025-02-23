@@ -1,16 +1,20 @@
 package Lab2Part1;
 
 public class TryCatchTest {
-public void TryCatch(String name){
-    try{
-
-    } catch (StringIndexOutOfBoundsException e) {
-        throw new RuntimeException(e);
-    } finally {
-        // do something else
-    }
-}
     public static void main(String[] args) {
-        //do something
+        String s = "Herdman";
+        try{
+            char c = s.charAt(7);
+        } catch (StringIndexOutOfBoundsException e) {
+            System.out.println(e);
+            e.printStackTrace();
+        } finally {
+            System.out.println("Surname: " + s);
+        }
+        try{
+            System.out.println("Test without catch");
+        }finally{
+            System.out.println("Finally! There is no catch!");
+        }
     }
 }
